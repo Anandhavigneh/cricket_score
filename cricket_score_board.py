@@ -15,7 +15,8 @@ elif klrahul> Virat  and klrahul>Dhoni  and klrahul>Jadeja and klrahul>Rohith:
 elif Rohith> Virat  and Rohith>Dhoni  and Rohith>Jadeja and Rohith>klrahul:
     print("Rohith is the man of the match")
 elif Jadeja> Virat  and Jadeja>Dhoni  and Jadeja>klrahul and Jadeja>Rohith:
-    print("Jadeja is the man of the match")
+    print("Jadeja is the man of the match.")
 
 else:
     print('man of the match IS TIE')
+
